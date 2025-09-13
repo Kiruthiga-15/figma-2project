@@ -7,6 +7,9 @@
     background-image: url(./img/header.png);
     height: 710px;
     width: 100%;
+     background-size: cover;       /* scales image to cover the container */
+    background-position: center;  /* centers the image */
+    background-repeat: no-repeat; 
 
 }
 
